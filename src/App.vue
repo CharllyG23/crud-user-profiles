@@ -1,6 +1,6 @@
 <template>
   <div>
-    hola!
+    Oi Main!
   </div>
 </template>
 <script setup>

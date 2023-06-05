@@ -1,0 +1,60 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "41 99288-2402",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "41 99288-2402",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 3,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "41 99288-2402",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 6,
+      "name": "Mr Charlly",
+      "username": "New",
+      "email": "Mrcharlly@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "41 99288-2402",
+      "website": "hildegard.org"
+    }
+  ]
+}
